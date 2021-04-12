@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+	<open>1</open>
+	<Style id="folder_style">
+			<ListStyle>
+				<listItemType>radioFolder</listItemType>
+			</ListStyle>
+	</Style>
+	<Style id="shadow">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1</width>
+		</LineStyle>
+       		<PolyStyle>
+			<outline>0</outline>
+            		<color>7f000000</color>
+       		</PolyStyle>
+	</Style>
+	<Style id="max_mins">
+		<BalloonStyle><text>$[description]</text></BalloonStyle>
+			<IconStyle>
+				<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href></Icon>
+				<color>ffffffff</color>
+				<scale>0.774596669241</scale>
+			</IconStyle>
+        	<LabelStyle>
+           		<color>ffffffff</color>
+			<scale>0.774596669241</scale>
+        	</LabelStyle>
+	</Style>
+	<Style id="hidechildren">
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+	</Style>
