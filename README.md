@@ -15,3 +15,6 @@ Colored by speed with extruded shadow
 
 ![](images/speed_marks.PNG)
 Colored by speed with speed marks (there are also altitude, time and climb marks to choose)
+
+![](images/trajec.PNG)
+The same trajectory generated in MATLAB colored by altitude
