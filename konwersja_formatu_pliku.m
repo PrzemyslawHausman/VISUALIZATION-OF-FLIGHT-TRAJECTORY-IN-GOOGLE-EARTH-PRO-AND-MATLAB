@@ -1,3 +1,3 @@
 clear
-wspolrzedne = dlmread('dupa.txt');
+wspolrzedne = dlmread('coords.txt');
 save('coords2.mat', 'wspolrzedne');
