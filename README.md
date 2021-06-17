@@ -26,12 +26,14 @@ or
 
 If you have already processed data, create "coords.txt" file and insert rows of longitude,latitude,altitude (no spaces, coordinates in Decimal Degree format and altitude in meters).
 Example:
+
 ![](images/coords_example.PNG)
 
 Then you can use file_format_conversion.m program to create "coords2.MAT" file that contains "wspolrzedne" variable which you will need later.
 
 Next you have to create "date_text6.txt" file that contains time stamp of every coordinate. Insert rows of yyyy-mm-ddThh:mm:ss 
 Example:
+
 ![](images/date_example.PNG)
 
 Use "file_format_conversion_data.m" program to create "date.MAT" file that contains "data" variable.
