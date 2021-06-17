@@ -22,6 +22,10 @@ INPUT DATA
 
 If you are using custom or arduino based gps logger insert to your folder file named "GPS.txt" that has NMEA-0183 GPGGA logs.
 
+Example
+
+![](images/gps_example.PNG)
+
 or
 
 If you have already processed data, create "coords.txt" file and insert rows of longitude,latitude,altitude (no spaces, coordinates in Decimal Degree format and altitude in meters).
