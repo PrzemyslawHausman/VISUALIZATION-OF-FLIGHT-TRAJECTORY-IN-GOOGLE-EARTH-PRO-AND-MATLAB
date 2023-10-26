@@ -22,7 +22,7 @@ The same trajectory generated in MATLAB colored by altitude
 
 IMPORTANT!!!
 To make this app work:
-1. Install flile :Google Earth trajectory.mlappinstall"
+1. Install flile: "Google Earth trajectory.mlappinstall"
 2. Extraxt file "aircraft.7z"
 3. Set current directory in Matlab where you placed "aircraft" folder (for example - if you extracted it on desktop then set current dirrectory as desktop)
 
