@@ -20,14 +20,14 @@ The same trajectory generated in MATLAB colored by altitude
 
 ![](images/example.PNG)
 
-IMPORTANT!!!
+## Instalation
 To make this app work:
 1. Install flile: "Google Earth trajectory.mlappinstall"
 2. Extraxt file "aircraft.7z"
 3. Set current directory in Matlab where you placed "aircraft" folder (for example - if you extracted it on desktop then set current dirrectory as desktop)
 
 
-INPUT DATA
+## INPUT DATA
 
 You can choose to input data at few different ways:
 1. spreadsheet file (.xlsx)
@@ -39,8 +39,8 @@ Data is then recognised and put into table where you can select corresponding pa
 In X-Plane data format the parameters are recognized automatically.
 
 
-DOWNLOADING MORE AIRCRAFTS
-1. Search and download file from: https://3dwarehouse.sketchup.com/
+## DOWNLOADING MORE AIRCRAFTS
+1. Search and download file from: [3dWarehouse](https://3dwarehouse.sketchup.com/)
 2. Place File in "aircraft" folder
 3. Click "refresh" button in app or restart app
 
