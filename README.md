@@ -4,8 +4,10 @@
 | :-----------------------------------: | :-----------------------------------: |
 |![](images/colored_by_altitude.PNG)    |![](images/colored_by_time.PNG)        |
 |Colored by altitude                    | Colored by time with normal shadow    |
-|                                       |                                       |
-| Content Cell                          | Content Cel                           |
+|![](images/colored_by_climb.PNG)       |![](images/colored_by_speed.PNG)       |
+|Colored by climb with extruded shadow  |Colored by speed with extruded shadow  |
+|![](images/speed_marks.PNG)            |![](images/trajec.PNG)                 |
+|Colored by speed with speed marks (there are also altitude, time and climb marks to choose)|The same trajectory generated in MATLAB colored by altitude|
 
 
 ![](images/colored_by_altitude.PNG)
