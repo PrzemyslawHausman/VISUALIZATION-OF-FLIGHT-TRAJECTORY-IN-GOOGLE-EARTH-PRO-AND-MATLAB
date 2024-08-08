@@ -1,5 +1,6 @@
 # VISUALIZATION OF FLIGHT TRAJECTORY IN GOOGLE EARTH PRO AND MATLAB
 
+|                                       |                                       |
 | :-----------------------------------: | :-----------------------------------: |
 |![](images/colored_by_altitude.PNG)    |![](images/colored_by_time.PNG)        |
 |Colored by altitude                    | Colored by time with normal shadow    |
