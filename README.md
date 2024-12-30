@@ -28,7 +28,7 @@ Data is then recognised and put into table where you can select corresponding pa
 In X-Plane data format the parameters are recognized automatically.
 
 
-## DOWNLOADING MORE AIRCRAFTS
+## DOWNLOADING MORE AIRCRAFT
 1. Search and download file from: [3dWarehouse](https://3dwarehouse.sketchup.com/)
 2. Place File in "aircraft" folder
 3. Click "refresh" button in app or restart app
